@@ -1,0 +1,19 @@
+td{
+    background-color: rgb(174, 185, 185);
+    padding: 11px;
+}
+th{
+    background: rgb(178, 178, 233);
+    color: rgb(126, 22, 22);
+    padding: 11px;
+}
+input{
+    height: 30px;
+    width: 290px;
+    
+}
+button{
+    height: 35px;
+    width: 48px;
+    background: rgb(98, 98, 141);
+}
